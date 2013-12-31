@@ -1,4 +1,9 @@
-source 'https://rubygems.org'
-gem 'rails', '4.0.0.beta1'
+$ gem install bundler
 
-gem git add Gemfile Gemfile.lock
+source "https://rubygems.org" 
+gem "nokogiri" 
+gem "rack", "~>1.1" 
+gem "rspec", :require => "spec"
+
+$ bundle install 
+$ git add Gemfile Gemfile.lock
