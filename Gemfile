@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 gem 'rails', '4.0.0.beta1'
 
-git add Gemfile Gemfile.lock
+gem git add Gemfile Gemfile.lock
