@@ -1,5 +1,2 @@
 source 'https://rubygems.org'
 gem 'rails', '4.0.0.beta1'
-rails new myproject
-cd myproject
-bundle install
